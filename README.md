@@ -37,27 +37,32 @@ These are just some of the advantages you get by using Vengeance
 ---
 ### Making an URL
 
-To make an URL you go to the repository and press the green code button. Then press download ZIP then drag the file to any webhost (thats it)
-To change the raspberry PI ID find this line in the code and type in your raspberry ID
+To make an URL you go to the repository and press the green code button. Then press download ZIP then drag the file to any webhost (thats it) We recommend you use W3schools or JSdelivr as a web host so your URL instead of using Netlify, Glitch, GitHub or Cloudflare because its more unlikely to get blocked.
+
+To change the raspberry PI ID find this line in index.html and type in your raspberry ID
 <div align="center">
   
  <img width="886" height="148" alt="image" src="https://github.com/user-attachments/assets/361aca48-5985-40dd-8a1b-e5121c9782c9" />
 
 </div>
 
-We recommend you use W3schools or JSdelivr as a web host so your URL instead of using Netlify, Glitch, GitHub or Cloudflare because its more unlikely to get blocked.
+---
+### Sites you can use
+By using our browser, you can access many sites that would normally be blocked or blacklisted by your blockers. 
+Some sites you can bypass that might be helpful include:
 
 <div align="center">
-
-<a href="https://www.w3schools.com/spaces/index.php" target="_blank" rel="noopener noreferrer">
-  <img width="280" height="254" alt="W3schools" src="https://github.com/user-attachments/assets/b14a0dbb-20c8-4899-9f59-30002120b284" />
-
-
-<a href="https://www.jsdelivr.com" target="_blank" rel="noopener noreferrer">
-  <img width="270" height="273" alt="Screenshot 2026-08-17 122257" src="https://github.com/user-attachments/assets/e19c0b2d-a888-4be4-a2c6-a7fac7bd9b82" />
   
+  <img width="259" height="258" alt="TikTok" src="https://github.com/user-attachments/assets/64b39de5-1382-4429-98e5-ba788e0a91fe" />
+  <img width="288" height="258" alt="YouTube" src="https://github.com/user-attachments/assets/d6a5858c-3139-4abf-b3f8-8f0a5836e17a" />
+  <img width="263" height="258" alt="Discord 2026-08-17 131628" src="https://github.com/user-attachments/assets/2ba211fc-0156-439f-9862-f64d590677e5" />
+
+
+
+
+
+
 </div>
 
----
 
 

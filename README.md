@@ -48,21 +48,32 @@ To change the raspberry PI ID find this line in index.html and type in your rasp
 
 ---
 ### Sites you can use
-By using our browser, you can access many sites that would normally be blocked or blacklisted by your blockers. 
-Some sites you can bypass that might be helpful include:
+By using our browser, you can access many sites that would normally be blacklisted by your blockers. Our browser comes with four different search engines: Google, DuckDuckGo, Brave, and Bing.
+
+Some sites you can bypass that might be enjoyable during your free time include:
 
 <div align="center">
   
   <img width="259" height="258" alt="TikTok" src="https://github.com/user-attachments/assets/64b39de5-1382-4429-98e5-ba788e0a91fe" />
   <img width="288" height="258" alt="YouTube" src="https://github.com/user-attachments/assets/d6a5858c-3139-4abf-b3f8-8f0a5836e17a" />
   <img width="263" height="258" alt="Discord 2026-08-17 131628" src="https://github.com/user-attachments/assets/2ba211fc-0156-439f-9862-f64d590677e5" />
+  <img width="260" height="258" alt="ChatGPT" src="https://github.com/user-attachments/assets/02f60c10-8170-423b-a299-8f6f2358bd35" />
+   <img width="260" height="258" alt="SnapChat" src="https://github.com/user-attachments/assets/2f48a951-85f4-4eba-9625-37ed04a3f1c4" />
 
-
-
-
-
-
+  ### You can also access sites like GitHub, X (Twitter), Spotify, and more!
 </div>
 
+---
 
+<div align="center">
+
+  ### Thanks for reading! We hope you enjoy our site!
+ 
+</div>
+
+<div align="center">
+
+  Made by Encrypted and Garaz
+
+</div>
 

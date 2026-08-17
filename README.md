@@ -35,9 +35,15 @@ These are just some of the advantages you get by using Vengeance
 
 
 ---
-### Hosting
+### Making an URL
 
-We recommend you use W3schools or JSdelivr as a web host so your URL instead of using Netlify, Glitch, GitHub or Cloudflare because its more unlikely to get blocked (press the buttons to see the hosts)
+To make an URL you press download ZIP then drag the file to any webhost (thats it)
+
+<div align="center">
+  
+</div>
+
+We recommend you use W3schools or JSdelivr as a web host so your URL instead of using Netlify, Glitch, GitHub or Cloudflare because its more unlikely to get blocked.
 
 <div align="center">
 
@@ -47,8 +53,9 @@ We recommend you use W3schools or JSdelivr as a web host so your URL instead of 
 
 <a href="https://www.jsdelivr.com" target="_blank" rel="noopener noreferrer">
   <img width="270" height="273" alt="Screenshot 2026-08-17 122257" src="https://github.com/user-attachments/assets/e19c0b2d-a888-4be4-a2c6-a7fac7bd9b82" />
-
   
 </div>
+
+---
 
 

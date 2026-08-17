@@ -41,7 +41,11 @@ To make an URL you press download ZIP then drag the file to any webhost (thats i
 
 <div align="center">
   
+ <img width="300" height="286" alt="a" src="https://github.com/user-attachments/assets/2b0d4dd0-b3be-4b3f-8787-f54e2e2442af" />
+
 </div>
+
+To change the raspberry PI ID find this line in the code and type in your raspberry ID
 
 We recommend you use W3schools or JSdelivr as a web host so your URL instead of using Netlify, Glitch, GitHub or Cloudflare because its more unlikely to get blocked.
 

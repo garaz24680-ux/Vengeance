@@ -60,20 +60,14 @@ Some sites you can bypass that might be enjoyable during your free time include:
   <img width="260" height="258" alt="ChatGPT" src="https://github.com/user-attachments/assets/02f60c10-8170-423b-a299-8f6f2358bd35" />
    <img width="260" height="258" alt="SnapChat" src="https://github.com/user-attachments/assets/2f48a951-85f4-4eba-9625-37ed04a3f1c4" />
 
-  ### You can also access sites like GitHub, X (Twitter), Spotify, and more!
+  #### You can also access sites like GitHub, X (Twitter), Spotify, and more!
 </div>
 
 ---
 
 <div align="center">
 
-  # Thanks for reading! We hope you enjoy our site!
- 
-</div>
-
-<div align="center">
-
-  Made by Encrypted and Garaz
-
+  ### Thanks for reading! We hope you enjoy our site!
+  Made by Encrypted + Garaz
 </div>
 

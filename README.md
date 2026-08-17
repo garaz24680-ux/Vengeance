@@ -38,12 +38,6 @@ These are just some of the advantages you get by using Vengeance
 ### Making an URL
 
 To make an URL you go to the repository and press the green code button. Then press download ZIP then drag the file to any webhost (thats it) We recommend you use W3schools or JSdelivr as a web host so your URL instead of using Netlify, Glitch, GitHub or Cloudflare because its more unlikely to get blocked.
-
-To change the raspberry PI ID find this line in index.html and type in your raspberry ID
-<div align="center">
-  
- <img width="886" height="148" alt="image" src="https://github.com/user-attachments/assets/361aca48-5985-40dd-8a1b-e5121c9782c9" />
-
 </div>
 
 ---

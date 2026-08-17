@@ -37,7 +37,7 @@ These are just some of the advantages you get by using Vengeance
 ---
 ### Hosting
 
-We recommend you use W3schools or JSdelivr as a web host so our URL is more likely to be unblocked instead of using Netlify, Glitch, GitHub or Cloudflare
+We recommend you use W3schools or JSdelivr as a web host so your URL instead of using Netlify, Glitch, GitHub or Cloudflare because its more unlikely to get blocked (press the buttons to see the hosts)
 
 <div align="center">
 

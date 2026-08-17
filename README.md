@@ -1,5 +1,5 @@
 <div align="center">
-  <img width="1992" height="410" alt="Screenshot 2026-08-17 085131" src="https://github.com/user-attachments/assets/504960b9-158b-4376-b17f-85cdd11c4228" />
+  <img width="1992" height="410" alt="Vengeance" src="https://github.com/user-attachments/assets/504960b9-158b-4376-b17f-85cdd11c4228" />
 </div>
 
 #
@@ -31,18 +31,23 @@ Please read the following before you fork or use our site:
 ### Advantages
 
 These are just some of the advantages you get by using Vengeance
-<img width="2004" height="602" alt="Screenshot 2026-08-17 093909" src="https://github.com/user-attachments/assets/f7953014-d1ad-415a-bde3-081efaf05e6c" />
+<img width="2004" height="602" alt="Advantages" src="https://github.com/user-attachments/assets/f7953014-d1ad-415a-bde3-081efaf05e6c" />
 
 
 ---
 ### Hosting
 
-We recommend you use these web hosts so our URL is more likely to be unblocked instead of using Netlify, Glitch, or GitHub
+We recommend you use W3schools or JSdelivr as a web host so our URL is more likely to be unblocked instead of using Netlify, Glitch, GitHub or Cloudflare
 
 <div align="center">
 
-<a href="https://app.netlify.com" target="_blank" rel="noopener noreferrer">
-  <img width="1200" height="1133" alt="w3Schools" src="https://github.com/user-attachments/assets/ed95d292-581a-4c75-ba74-5ddef25ff2bb" />" alt="Button Text" width="200" />
+<a href="https://www.w3schools.com/spaces/index.php" target="_blank" rel="noopener noreferrer">
+  <img width="280" height="254" alt="W3schools" src="https://github.com/user-attachments/assets/b14a0dbb-20c8-4899-9f59-30002120b284" />
+
+
+<a href="https://www.jsdelivr.com" target="_blank" rel="noopener noreferrer">
+  <img width="270" height="273" alt="Screenshot 2026-08-17 122257" src="https://github.com/user-attachments/assets/e19c0b2d-a888-4be4-a2c6-a7fac7bd9b82" />
+
   
 </div>
 

@@ -1241,10 +1241,20 @@
                 centerStage.style.display = 'none';
                 frame.classList.add('active');
 
-                const selectedEngine = document.getElementById('engine-select').value;
-                const searchQuery = rawQuery || displayUrl;
-                const serverSearchEndpoint = `${RASPBERRY_PI_SERVER}/search?engine=${encodeURIComponent(selectedEngine)}&q=${encodeURIComponent(searchQuery)}`;
-                
+                    const selectedEngine = document.getElementById('engine-select').value;
+    const searchQuery = rawQuery || displayUrl;
+
+    // Fixes the link automatically if they forget https://
+    let finalSearchQuery = searchQuery.trim();
+    if (finalSearchQuery.includes('.') && !finalSearchQuery.includes(' ') && !finalSearchQuery.startsWith('http')) {
+        finalSearchQuery = 'https://' + finalSearchQuery;
+    }
+
+    // Sends the perfectly fixed link to your Raspberry Pi
+    const serverSearchEndpoint = `${RASPBERRY_PI_SERVER}/search?engine=${encodeURIComponent(selectedEngine)}&q=${encodeURIComponent(finalSearchQuery)}`;
+
+    frame.src = serverSearchEndpoint;
+
                 frame.src = serverSearchEndpoint;
             }
 

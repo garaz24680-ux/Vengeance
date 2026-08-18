@@ -62,6 +62,7 @@ Some sites you can bypass that might be enjoyable during your free time include:
 <div align="center">
 
   ### Thanks for reading! We hope you enjoy our site!
+  ### Link: garaz24680-ux.github.io/Vengeance/
   Made by Encrypted + Garaz
 </div>
 

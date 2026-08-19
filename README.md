@@ -37,7 +37,7 @@ These are just some of the advantages you get by using Vengeance
 ---
 ### Making an URL
 
-To make an URL you go to the repository and press the green code button. Then press download ZIP then drag the file to any webhost (thats it) We recommend you use W3schools or JSdelivr as a web host so your URL instead of using Netlify, Glitch, GitHub or Cloudflare because its more unlikely to get blocked.
+To make an URL you go to the repository and press the green code button. Then press download ZIP then drag the file to any webhost (thats it). We recommend you use W3schools or JSdelivr as a web host instead of using Netlify, Glitch, GitHub or Cloudflare because its more unlikely to get blocked.
 </div>
 
 ---
